@@ -14,5 +14,7 @@ git push -u origin master
 
 
 person-manager
-  cd person-manager
+	git clone https://github.com/idmlnz/react.git
+  cd react/person-manager
+	git install
 	npm start
