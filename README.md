@@ -12,7 +12,10 @@ git remote add origin https://github.com/idmlnz/react.git
 git push -u origin master
 
 
+To clone/install
+===============
+git remote add origin https://github.com/idmlnz/react.git
 
-person-manager
-  cd person-manager
+cd react/person-manager
+	npm install
 	npm start
