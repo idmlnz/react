@@ -23,7 +23,7 @@
     transform: translateX(0);
 }
 
-// shift sidedrawer to the left
+/* shift sidedrawer to the left */
 .Close {
     transform: translateX(-100%);
 }
